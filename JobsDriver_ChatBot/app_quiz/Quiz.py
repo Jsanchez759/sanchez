@@ -17,7 +17,7 @@ for i, question in enumerate(questions, start=1):
 
 if st.button('Send Email'):
     st.write(f"You got {score} out of {total_questions} questions correct!")
-    message_sent = send_email(name, score, 'trae@accessai.ai')
+    message_sent = send_email(name, score, 'jesussanchezd@hotmail.es')
     if message_sent == 'Email sent successfully.':
         st.success('Thanks for taking this quiz. We will contact you shortly!')
         st.balloons()
