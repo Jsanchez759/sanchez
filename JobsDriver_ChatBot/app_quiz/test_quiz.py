@@ -29,7 +29,7 @@ def send_email(name, score, receiver):
 # Full list of 10 questions
 questions = [
     {
-        "question": "jesus",
+        "question": "What is the core strategy of TheJobsDriver in reaching job seekers? ",
         "choices": ["Multi-channel approach", "Direct mailing", "Single-platform advertising", "Cold calling techniques"],
         "answer": "Multi-channel approach"
     },
