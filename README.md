@@ -1,2 +1,2 @@
-# sanchez
-Repository to host different IA projects
+# Sanchez
+This is the place where Jesus Sanchez can build tools
